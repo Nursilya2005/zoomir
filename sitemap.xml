@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="">
+<urlset xmlns="https://www.sitemaps.org/sitemap/0.9">
 
     <url>
         <loc>https://nursilya2005.github.io/zooomir/</loc>
-        <lastmod></lastmod>
-        <changefreg></changefreg>
-        <priority></priority>
+        <lastmod>2025-09-03</lastmod>
+        <changefreg>monthly</changefreg>
+        <priority>1.0</priority>
     </url>
     <url>
         <loc>https://nursilya2005.github.io/zooomir/about.html</loc>
-        <lastmod></lastmod>
-        <changefreg></changefreg>
-        <priority></priority>
+        <lastmod>2025-09-03</lastmod>
+        <changefreg>monthly</changefreg>
+        <priority>0.8</priority>
     </url>
      <url>
         <loc>https://nursilya2005.github.io/zooomir/contact.html</loc>
-        <lastmod></lastmod>
-        <changefreg></changefreg>
-        <priority></priority>
+        <lastmod>2025-09-03</lastmod>
+        <changefreg>monthly</changefreg>
+        <priority>0.8</priority>
     </url>
 
 </urlsert>
