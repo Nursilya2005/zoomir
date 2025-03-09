@@ -1,3 +1,0 @@
-USER-AGENT: *
-aLLOW: /
-Sitemap: https://nursilya2005.github.io/zooomir/sitemap.xml
